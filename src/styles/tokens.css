@@ -1,0 +1,75 @@
+:root {
+  /* Fonts */
+  --font-display: 'Space Grotesk', 'Poppins', system-ui, -apple-system, sans-serif;
+  --font-sans: 'Poppins', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  /* Official Jaris Palette — Hierarchy: BRANCO > LARANJA > AZUL-MARINHO */
+  --jaris-orange: #d96b10;
+  --jaris-orange-hover: #c25909;
+  --jaris-orange-active: #a34708;
+  --jaris-orange-light: #fb923c;
+  --jaris-orange-soft: #ffedd5;
+  --jaris-orange-bg: #fff7ed;
+
+  --jaris-navy: #0e1f3d;
+  --jaris-navy-deep: #0a1628;
+  --jaris-navy-surface: #132035;
+  --jaris-navy-tint: #f0f3f8;
+
+  /* Dominant White & Neutral Light Surfaces (75-85% of composition) */
+  --jaris-white: #ffffff;
+  --jaris-surface-alt: #fafafa;
+  --jaris-surface-subtle: #fafbfc;
+  --jaris-surface-slate: #f8fafc;
+  --jaris-surface-row: #f9fafb;
+  --jaris-surface-hover: #f5f5f5;
+  --jaris-divider: #f3f4f6;
+  --jaris-border: #e5e7eb;
+  --jaris-border-soft: #eaecf0;
+
+  /* Text Hierarchy */
+  --jaris-ink-strong: #171717;
+  --jaris-ink-body: #374151;
+  --jaris-ink-muted: #4b5563;
+  --jaris-ink-subtle: #6b6b6b;
+  --jaris-ink-faint: #9ca3af;
+
+  /* Semantic Status Tokens */
+  --jaris-success: #16a34a;
+  --jaris-success-bg: #f0fdf4;
+  --jaris-success-text: #15803d;
+  --jaris-success-border: #bbf7d0;
+
+  --jaris-warning: #d97706;
+  --jaris-warning-bg: #fffbeb;
+  --jaris-warning-text: #b45309;
+  --jaris-warning-border: #fde68a;
+
+  --jaris-info: #2563eb;
+  --jaris-info-bg: #eff6ff;
+  --jaris-info-text: #1d4ed8;
+  --jaris-info-border: #bfdbfe;
+
+  --jaris-danger: #dc2626;
+  --jaris-danger-bg: #fef2f2;
+  --jaris-danger-border: #fecaca;
+
+  --jaris-roadmap-bg: #f1f5f9;
+  --jaris-roadmap-text: #475569;
+  --jaris-roadmap-border: #e2e8f0;
+
+  --jaris-vision-bg: #f5f3ff;
+  --jaris-vision-text: #6d28d9;
+  --jaris-vision-border: #ddd6fe;
+
+  /* Aura-inspired Precision Curves & Elevation */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-bouncy: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+  --shadow-card: 0 2px 12px rgba(14, 31, 61, 0.04);
+  --shadow-card-elevated: 0 18px 48px rgba(14, 31, 61, 0.07), 0 1px 3px rgba(14, 31, 61, 0.04);
+  --shadow-orange-glow: 0 12px 32px rgba(217, 107, 16, 0.26);
+  --shadow-focus: 0 0 0 3px rgba(217, 107, 16, 0.25);
+}
+
