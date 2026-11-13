@@ -87,3 +87,4 @@ Os arquivos estáticos gerados em `dist/` após a execução de `npm run build` 
 ## 📄 Licença
 
 Este projeto é de uso privado e confidencial da JARIS. Todos os direitos reservados.
+
